@@ -1,0 +1,14 @@
+.ff
+{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.footerContainer
+{
+background-color: rgb(19, 17, 17);
+
+
+}

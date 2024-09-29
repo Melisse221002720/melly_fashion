@@ -1,0 +1,13 @@
+.contactHolder
+{
+    padding-top: 5rem;
+    height: 93vh;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.listContact
+{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

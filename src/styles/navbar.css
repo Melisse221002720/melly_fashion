@@ -1,0 +1,48 @@
+.navbarContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 4rem;
+    position: fixed;
+    background-color: white;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.navList
+{
+    display:flex;
+    flex-direction: row;
+    gap:1rem;
+    list-style: none;
+    font-size: 1rem;
+    cursor: pointer;
+
+}
+.navList a{
+    text-decoration: none;
+    color: black;
+}
+.imageLogo
+{
+    width: 6rem;
+    height: 2rem;
+    object-fit: fill;
+}
+.buttonL
+{
+    background-color: #1891C8;
+    
+    width: 4rem;
+    font-size: 1.1rem;
+    color: white;
+    border: none;
+    padding:7px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
